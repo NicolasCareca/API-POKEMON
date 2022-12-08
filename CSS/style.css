@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    align-items: center;
+}
+#pokemon{
+    background-color: black;
+    width: 100vw;
+    height: 10vh;
+    color: orange;
+    font-size: 2rem;
+    text-align: center;
+}
+main{
+    width: 100vw;
+    height: 100vh;
+    background-color: orange;
+
+}
+#label{
+    
+    font-size: 2rem;
+    text-align: center;
+    
+}
+#input{
+    text-align: center;
+}
+#foto{
+    border: black solid 5px;
+    background-color: blue;
+    width: 25vw;
+    height: 50vh;
+    margin-left: 37vw;
+}
+img{
+    display: none;
+    width: 100%;
+}
+#first{
+    line-height: 5vh;
+    padding-top: 3vh;
+}
+#informacoes{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+
+
+
